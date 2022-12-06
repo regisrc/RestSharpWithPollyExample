@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "RestSharpWithPollyExample\WebApi.csproj", "{1BFA56A6-7E5B-4307-9EDD-587F24AE2593}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{1BFA56A6-7E5B-4307-9EDD-587F24AE2593}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{F0B65786-B877-4BA3-831F-F53549DFEE61}"
 EndProject
